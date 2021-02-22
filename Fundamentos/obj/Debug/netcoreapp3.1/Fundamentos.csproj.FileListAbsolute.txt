@@ -1,0 +1,13 @@
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.exe
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.deps.json
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.runtimeconfig.json
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.runtimeconfig.dev.json
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.dll
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\bin\Debug\netcoreapp3.1\Fundamentos.pdb
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.csprojAssemblyReference.cache
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.AssemblyInfoInputs.cache
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.AssemblyInfo.cs
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.csproj.CoreCompileInputs.cache
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.dll
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.pdb
+F:\DIPLOMADOS\YOUTUBE\C#\Fundamentos\Fundamentos\obj\Debug\netcoreapp3.1\Fundamentos.genruntimeconfig.cache
